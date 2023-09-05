@@ -22,3 +22,5 @@ createDirectories(2);
 
 //     writeFile(`../jeu/${`Dossier${Math.floor(Math.random(i))}`}/index.md`, )
 // }
+
+// créer un tableau avec le nom des dossiers
